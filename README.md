@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2>Hi there 👋 </h2> 
 
-<!--
-**renatodans/renatodans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer / DevOps
+---------
 
-Here are some ideas to get you started:
+- :books: Never stop learning
+- :computer: I'm study Blockchain
+- :video_game: Game developer
+- :guitar: Guitar player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/netcore.svg" width="36" height="36" alt="NetCore" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/c.svg" width="36" height="36" alt="CSharp" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/nodejs.svg" width="36" height="36" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/go.svg" width="36" height="36" alt="Go" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/javascript.svg" width="36" height="36" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/html5.svg" width="36" height="36" alt="html5" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/css3.svg" width="36" height="36" alt="css3" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/bootstrap.svg" width="36" height="36" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/reactjs.svg" width="36" height="36" alt="ReactJs" />
+  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/unity3d.svg" width="36" height="36" alt="Unity3d" />
+</p>
