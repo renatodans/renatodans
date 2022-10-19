@@ -1,12 +1,7 @@
 <h2>Hi there 👋 </h2> 
 
-Full Stack Developer / DevOps
+Software Engineer / DevOps
 ---------
-
-- :books: Never stop learning
-- :computer: I'm study Blockchain
-- :video_game: Game developer
-- :guitar: Guitar player
 
 ### Skills
 <p align="left">
