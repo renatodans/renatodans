@@ -1,19 +1,10 @@
-<h2>Hi there 👋 </h2> 
+# Renato Dans
 
-Software Engineer / DevOps
----------
+Software Engineer / SRE / DevOps / Cloud
 
-### Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/netcore.svg" width="36" height="36" alt="NetCore" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/c.svg" width="36" height="36" alt="CSharp" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/nodejs.svg" width="36" height="36" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/go.svg" width="36" height="36" alt="Go" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/javascript.svg" width="36" height="36" alt="javascript" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/html5.svg" width="36" height="36" alt="html5" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/css3.svg" width="36" height="36" alt="css3" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/bootstrap.svg" width="36" height="36" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/angular.svg" width="36" height="36" alt="Angular" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/reactjs.svg" width="36" height="36" alt="ReactJs" />
-  <img src="https://raw.githubusercontent.com/renatodans/renatodans/main/unity3d.svg" width="36" height="36" alt="Unity3d" />
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Renato%20Dans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatodansdias/)](https://www.linkedin.com/in/renatodansdias/) 
+[![Gmail Badge](https://img.shields.io/badge/-renato.dans@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renato.dans@gmail.com)](mailto:renato.dans@gmail.com)
+
+Software engineer focused on web development, games and mobile applications.
+
+Currently working as SRE and DevOps, I help teams by providing AWS or Azure cloud resources, deploying APIs in Kubernetes, as well as creating pipelines for build and continuous delivery.
